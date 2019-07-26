@@ -20,3 +20,25 @@ import 'package:flutter/material.dart';
 
 
   }
+
+
+class  ColumDividerLine extends StatelessWidget{
+
+
+
+  @override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+     return  Container(
+
+       height: 220,
+       width: 0.5,
+       color: Colors.black12,
+
+    );
+  }
+
+
+
+
+}
